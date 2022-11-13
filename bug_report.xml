@@ -1,1 +1,5 @@
-
+<environment>Windows 11</environment>
+<title>Not all homepage elements are translated into Japanese</title>
+ <steps>1) Click_on_the_language_selection_dropdown_in_the_upper_right_corner 2) Switch_language_to_Japanese 3) Scroll_the_page_down_to_the_end</steps>
+ <expected_result>All elements of the main page are translated into Japanese</expected_result>
+ <actual_result>Not all homepage elements are translated into Japanese</actual_result>
